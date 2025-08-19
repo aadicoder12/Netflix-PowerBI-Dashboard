@@ -41,6 +41,7 @@ Using **Power BI**, I performed data cleaning, modeling, and visualization to cr
 ---
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard](images/dashboard.png)
+<img width="1444" height="805" alt="image" src="https://github.com/user-attachments/assets/76a82f5f-59b7-4b47-b264-faf4eda96808" />
+
 
 ---
